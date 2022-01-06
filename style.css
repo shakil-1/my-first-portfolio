@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto',sans-serif;
+    background: #cbcac9a6;
+}
+/* start css header area */
+.max-width{
+    max-width: 1200px;
+}
+.heading-color{
+    color: orange;
+}
+.flex-content{
+    display: flex;
+}
+.text-border {
+    border-image: linear-gradient(#dd19c7, #2bad47);
+    border-image-slice: 1;
+    border-left: 6px solid green;
+}
+.helf-width{
+width: 50%;
+}
+.img-area img {
+    width: 40%;
+    margin-left: 150px;
+}
+.text-rapper {
+    margin-left: 50px;
+    padding-top: 15px;
+}
+.text-rapper h1 {
+    font-size: 55px;
+   
+}
+.text-rapper p {
+    font-size: 20px;
+    margin: 20px 0px;
+}
+
+.btn {
+    background: orange;
+    text-decoration: none;
+    border: 1px solid orange;
+    padding: 9px 28px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+/* end css header area */
+
+/* stard css card section */
+.text-header-card{
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+}
+.card.card-bg-1 {
+    background: #ad21b778;
+}
+.card-bg-color-2{
+    background: #c5ffe4;
+}
+.card-bg-color-3 {
+    background: #2196f3a1;
+}
+.card {
+    border: 1px solid #d5d5d5;
+    width: 22%;
+    margin-left: 70px;
+    padding: 25px;
+    border-radius: 32px;
+   
+}
+.card-bg-color-1{
+    background: #cbc8cf;
+}
+.card h1{
+        padding: 20px 0;
+}
+.card-img img{
+    width: 80%;
+}
+/* end css card section */
+
+
+
+.develop-area{
+    margin-top: 80px;
+}
+.global-area{
+    margin-top: 80px;
+}
+
+.form-section {
+    width: 50%;
+    height: auto;
+    background: #9bbccb;
+    text-align: center;
+}
+.img-section {
+    background: #03a9f42e;
+}
+.galleary img {
+    width: 163px;
+    border: 1px solid #3825df;
+    border-radius: 5px;
+    padding: -6px;
+}
+.from-area {
+    width: 300px;
+    margin-top: 20px;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    background: #959595;
+    padding: 35px;
+}
+.img-gallery{
+    background-color: hotpink;
+}
+.img-gallery h1{
+    text-align: center;
+}
+.img-gallery img{
+    width: 20%;
+}
+.ffff {
+    border: 1px solid blueviolet;
+    padding: 10px;
+    margin-top: 5px;
+    background: #6e7c7c;
+}
+.form-btn {
+    border: 2px solid #858f85;
+    width: 108px;
+    margin-top: 10px;
+    padding: 12px 23px;
+    border-radius: 10px;
+    background: #ff9800b8;
+    font-size: 18px;
+    transition: .5s;
+}
+.form-btn:hover{
+background-color: hotpink;
+color: white;
+}
+input.input-area {
+    border-radius: 5px;
+    width: 171px;
+}
+
+
+/* start footer area */
+.footer-area{
+    background-color: lightgray;
+    text-align: center;
+}
+.footer-area h3{
+        font-weight:800;
+        padding: 16px;
+        font-size: 30px;
+        font: italic;
+}
+.footer-bg {
+    background: gray;
+}
+/* end footer area */
